@@ -5,9 +5,9 @@ description: Tracks cross-team and cross-ART dependencies for FutureState — ag
 
 # Dependency Tracker
 
-Template: `reference/templates/dependency-record.md`
+Template: `docs/templates/dependency-record.md`
 
-Escalation path: `reference/wiki/platform-decision-matrix.md`, wiki page ART Escalations
+Escalation path: `reference/wiki/future-state/platform-decision-matrix.md`, wiki page ART Escalations
 
 ## Steps
 

@@ -5,7 +5,7 @@ description: Pre-refinement and pre-PI gate audit of backlog items against Futur
 
 # Backlog Readiness Audit
 
-Full checklists: `reference/dor-dod-checklists.md`
+Full checklists: `docs/dor-dod-checklists.md`
 
 ## Definition of Ready (FutureState)
 

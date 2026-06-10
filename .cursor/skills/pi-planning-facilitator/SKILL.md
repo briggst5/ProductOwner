@@ -5,7 +5,7 @@ description: Produces PI Planning meeting materials — agenda, breakout guides,
 
 # PI Planning Facilitator
 
-Reference: `reference/wiki/agile-ceremonies-safe.md`
+Reference: `reference/wiki/agile-practices/safe-agile/agile-ceremonies-safe.md`
 
 Prerequisite data: `pi-planning-prep`, `pi-objectives-writer`, `dependency-tracker`
 

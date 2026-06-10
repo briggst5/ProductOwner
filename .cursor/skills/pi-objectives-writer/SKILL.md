@@ -5,7 +5,7 @@ description: Drafts and refines PI Objectives from Features and business context
 
 # PI Objectives Writer
 
-Template: `reference/templates/pi-objective.md`
+Template: `docs/templates/pi-objective.md`
 
 ## Inputs
 

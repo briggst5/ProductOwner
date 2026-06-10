@@ -5,7 +5,7 @@ description: Decomposes Features into INVEST-compliant User Stories with accepta
 
 # Story Breakdown
 
-Templates: `reference/templates/story.md`, `reference/templates/feature.md`
+Templates: `docs/templates/story.md`, `docs/templates/feature.md`
 
 ## Steps
 
@@ -38,4 +38,4 @@ Offer `wit_add_child_work_items` after user approves drafts.
 
 ## Reference
 
-`reference/wiki/guide-to-writing-user-stories.md`, `reference/wiki/work-item-hierarchy.md`
+`reference/wiki/agile-practices/guide-to-writing-user-stories.md`, `reference/wiki/agile-practices/safe-agile/work-item-hierarchy.md`

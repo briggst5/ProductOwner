@@ -9,8 +9,8 @@ This project follows SAFe on the FLC FutureState program. **Always prefer local 
 
 ## Source of truth
 
-1. `reference/futurestate-process.md` — consolidated summary (read first)
-2. `reference/wiki/` — full wiki page exports
+1. `docs/futurestate-process.md` — consolidated summary (read first)
+2. `reference/wiki/` — full wiki page exports (local; gitignored — run `scripts/sync_wiki.py`)
 3. [Platform.wiki](https://dev.azure.com/FLC-NPD/FutureState/_wiki/wikis/Platform.wiki) — live wiki via Azure DevOps MCP
 
 ## Non-negotiables

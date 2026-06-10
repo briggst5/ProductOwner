@@ -1,12 +1,12 @@
 ---
 description: Work item title, description, AC, and DoD writing standards
-globs: reference/templates/**
+globs: docs/templates/**
 alwaysApply: false
 ---
 
 # Work Item Writing Standards
 
-Applies when drafting or editing work items, backlog items, or content under `reference/templates/`.
+Applies when drafting or editing work items, backlog items, or content under `docs/templates/`.
 
 ## Titles
 
@@ -37,10 +37,10 @@ I know that I am done when...
 
 ## Story points
 
-Fibonacci only: 1, 2, 3, 5, 8, 13, 21, 34, 55. Flag items outside sizing guidelines in `reference/futurestate-process.md`.
+Fibonacci only: 1, 2, 3, 5, 8, 13, 21, 34, 55. Flag items outside sizing guidelines in `docs/futurestate-process.md`.
 
 ## Tags
 
-Apply standard tags from `reference/wiki/standard-work-item-tags.md` when gaps exist (NeedsAC, NeedsDoD, etc.).
+Apply standard tags from `reference/wiki/future-state/standard-work-item-tags.md` when gaps exist (NeedsAC, NeedsDoD, etc.).
 
-Templates: `reference/templates/feature.md`, `story.md`, `pi-objective.md`, `dependency-record.md`
+Templates: `docs/templates/feature.md`, `story.md`, `pi-objective.md`, `dependency-record.md`

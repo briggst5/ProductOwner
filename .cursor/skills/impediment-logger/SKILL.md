@@ -5,7 +5,7 @@ description: Structures impediments with owner and ART visibility for FutureStat
 
 # Impediment Logger
 
-States: `reference/wiki/work-item-states.md` — use **Waiting** with comment
+States: `reference/wiki/future-state/work-item-states.md` — use **Waiting** with comment
 
 ## Steps
 
@@ -34,7 +34,7 @@ Expected resolution: [date if known]
 
 ## Output
 
-Impediment record + optional link to `reference/templates/dependency-record.md` if cross-team.
+Impediment record + optional link to `docs/templates/dependency-record.md` if cross-team.
 
 ## Related
 

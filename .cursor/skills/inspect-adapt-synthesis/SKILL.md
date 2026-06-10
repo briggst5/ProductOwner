@@ -5,7 +5,7 @@ description: Synthesizes Inspect and Adapt workshop inputs — PI metrics, quali
 
 # Inspect & Adapt Synthesis
 
-Ceremony: `reference/wiki/agile-ceremonies-safe.md`
+Ceremony: `reference/wiki/agile-practices/safe-agile/agile-ceremonies-safe.md`
 
 ## Inputs
 

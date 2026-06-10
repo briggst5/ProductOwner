@@ -5,7 +5,7 @@ description: Matches team capacity to planned backlog load for an iteration or P
 
 # Capacity Planner
 
-Reference: `reference/wiki/safe-timebox-planning.md` — individual 3–9 pts/iteration (avg 5)
+Reference: `reference/wiki/agile-practices/safe-agile/safe-timebox-planning.md` — individual 3–9 pts/iteration (avg 5)
 
 ## Steps
 

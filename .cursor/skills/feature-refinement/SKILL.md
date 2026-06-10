@@ -5,7 +5,7 @@ description: Prepares Features for PI Planning or backlog refinement — split/m
 
 # Feature Refinement
 
-Template: `reference/templates/feature.md`
+Template: `docs/templates/feature.md`
 
 ## Preconditions
 

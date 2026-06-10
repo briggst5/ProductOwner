@@ -5,7 +5,7 @@ description: Rewrites vague User Story acceptance criteria into testable Given/W
 
 # Acceptance Criteria Coach
 
-Reference: `reference/wiki/guide-to-writing-user-stories.md`
+Reference: `reference/wiki/agile-practices/guide-to-writing-user-stories.md`
 
 ## Steps
 

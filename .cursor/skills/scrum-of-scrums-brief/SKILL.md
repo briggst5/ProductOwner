@@ -5,7 +5,7 @@ description: Generates ART Sync (Scrum of Scrums) talking points — blockers, d
 
 # Scrum of Scrums Brief
 
-Ceremony: ART Sync — `reference/wiki/agile-ceremonies-safe.md`
+Ceremony: ART Sync — `reference/wiki/agile-practices/safe-agile/agile-ceremonies-safe.md`
 
 ## Inputs
 

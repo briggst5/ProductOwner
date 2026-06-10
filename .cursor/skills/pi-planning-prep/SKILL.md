@@ -5,7 +5,7 @@ description: Prepares RTE and ART leadership for PI Planning — feature readine
 
 # PI Planning Prep
 
-Ceremony reference: `reference/wiki/agile-ceremonies-safe.md`
+Ceremony reference: `reference/wiki/agile-practices/safe-agile/agile-ceremonies-safe.md`
 
 ## Data to gather
 
@@ -29,7 +29,7 @@ Rule: team load ≤ 100% of capacity for committed scope; buffer for IP iteratio
 
 ### 3. Dependency matrix
 
-Use `reference/templates/dependency-record.md` columns — consumer × provider grid.
+Use `docs/templates/dependency-record.md` columns — consumer × provider grid.
 
 ### 4. Risk register (ROAM draft)
 

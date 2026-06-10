@@ -5,7 +5,7 @@ description: Pulls iteration backlog and team capacity, flags overcommit, and dr
 
 # Sprint Planning Assist
 
-Ceremony: `reference/wiki/agile-ceremonies-scrum.md`
+Ceremony: `reference/wiki/agile-practices/safe-agile/agile-ceremonies-scrum.md`
 
 ## Steps
 

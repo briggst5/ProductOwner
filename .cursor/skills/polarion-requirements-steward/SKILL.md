@@ -9,7 +9,7 @@ description: Queries Polarion requirements, LiveDocs, reviews, and traceability 
 
 See `.cursor/rules/ado-polarion-boundary.mdc` and `.cursor/rules/traceability-standards.mdc`.
 
-Process context: `reference/futurestate-process.md`
+Process context: `docs/futurestate-process.md`
 
 ## MCP tools (polarion-mcp)
 

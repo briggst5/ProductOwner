@@ -5,8 +5,8 @@ description: Reviews enabler vs feature balance and architectural runway gaps fo
 
 # Architectural Runway Review
 
-Glossary: Architectural Runway — `reference/wiki/agile-glossary.md`
-SAFe Category Enabler: `reference/wiki/safe-category.md`
+Glossary: Architectural Runway — `reference/wiki/agile-practices/agile-glossary.md`
+SAFe Category Enabler: `reference/wiki/agile-practices/safe-agile/safe-category.md`
 
 ## Steps
 

@@ -9,7 +9,8 @@ Opening this repo in Cursor automatically loads:
 - **26 skills** (`.cursor/skills/`) — PO, RTE, and ceremony workflows
 - **6 rules** (`.cursor/rules/`) — FutureState process, ADO/Polarion boundaries
 - **6 agents** ([AGENTS.md](AGENTS.md)) — PO Coach, RTE Coordinator, and others
-- **Process reference** (`reference/`) — wiki exports, DoR/DoD checklists, templates
+- **Process docs** (`docs/`) — curated summaries, DoR/DoD checklists, templates (in git)
+- **Wiki exports** (`reference/`) — synced from Azure DevOps (local only, gitignored)
 
 Live Azure DevOps and Polarion access requires MCP servers and credentials (below).
 
@@ -156,7 +157,7 @@ Expected results:
 
 - ADO returns FutureState wiki or work items
 - Polarion responds if credentials are valid
-- Process answers cite `reference/futurestate-process.md`, not generic SAFe
+- Process answers cite `docs/futurestate-process.md`, not generic SAFe
 
 ### Troubleshooting
 
@@ -169,7 +170,7 @@ Expected results:
 
 ## Step 7 — Refresh wiki exports (recommended)
 
-Bundled wiki under `reference/wiki/` may be stale. Refresh from live Azure DevOps:
+Wiki exports under `reference/wiki/` are not in git. After clone, refresh from live Azure DevOps:
 
 ```bash
 cd ProductOwner
@@ -214,7 +215,7 @@ If you are a Cursor agent helping a user install this repo:
 4. Fix the Polarion path in `ProductOwner/.cursor/mcp.json`
 5. Open `ProductOwner` as the Cursor workspace root
 6. Enable MCP servers; test ADO wiki list and Polarion query
-7. Run `python3 scripts/sync_wiki.py` to refresh process docs
+7. Run `python3 scripts/sync_wiki.py` to populate `reference/wiki/` locally
 8. Point the user to [README.md](README.md) for the skill and agent index
 
 ## Not included in this repository

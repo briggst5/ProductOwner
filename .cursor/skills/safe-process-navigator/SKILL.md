@@ -11,8 +11,8 @@ Process questions, ceremony prep, "what's our standard for X", tool routing.
 
 ## Steps
 
-1. Read `reference/futurestate-process.md` for the answer
-2. For DoR/DoD gates read `reference/dor-dod-checklists.md`
+1. Read `docs/futurestate-process.md` for the answer
+2. For DoR/DoD gates read `docs/dor-dod-checklists.md`
 3. Drill into `reference/wiki/` for detail (see `reference/wiki-index.md`)
 4. If local exports may be stale, run `wiki-sync` skill or `python3 scripts/sync_wiki.py`
 5. If live wiki needed, use `wiki_get_page_content` (project: `FutureState`, wiki: Platform.wiki)

@@ -9,9 +9,9 @@ Project: **FutureState** unless user specifies otherwise.
 
 ## Standards
 
-Read `reference/futurestate-process.md` and `.cursor/rules/work-item-writing-standards.mdc` before writes.
+Read `docs/futurestate-process.md` and `.cursor/rules/work-item-writing-standards.mdc` before writes.
 
-Templates: `reference/templates/`
+Templates: `docs/templates/`
 
 ## MCP tools (azure-devops)
 
