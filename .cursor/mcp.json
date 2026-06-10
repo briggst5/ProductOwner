@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "polarion-mcp": {
+      "command": "bash",
+      "args": [
+        "-lc",
+        "cd /home/briggst5/research/PolarionMCP && source .venv/bin/activate && polarion-mcp"
+      ]
+    },
+    "azure-devops": {
+      "command": "bash",
+      "args": [
+        "-lc",
+        "set -a && source ~/.config/azure-devops-mcp.env && set +a && exec npx -y @azure-devops/mcp \"$ADO_ORG\" -d core wiki work work-items --authentication \"$ADO_AUTH\""
+      ]
+    }
+  }
+}
