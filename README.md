@@ -2,6 +2,8 @@
 
 Skills, agents, and rules to support Product Owners, RTEs, and agile team members on the FLC FutureState program.
 
+**New here?** See **[INSTALL.md](INSTALL.md)** for setup (clone, MCP credentials, Cursor configuration).
+
 ## Process reference
 
 Agile process is documented in the [FutureState Platform.wiki](https://dev.azure.com/FLC-NPD/FutureState/_wiki/wikis/Platform.wiki).
