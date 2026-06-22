@@ -163,6 +163,7 @@ Expected results:
 
 | Symptom | Fix |
 |---------|-----|
+| `CERTIFICATE_VERIFY_FAILED` / SSL errors in WSL (Python, MCP, curl, Chromium) | Run `bash scripts/fix-wsl-corp-certs.sh` (exports Baxter/Zscaler + HRC roots from Windows, updates trust store). Re-run after WSL reinstall. Add `--chromium` for browser NSS. |
 | Polarion MCP won't start | Check venv path in `mcp.json`; confirm `polarion-mcp` runs inside the venv |
 | ADO auth error | Re-check `~/.config/azure-devops-mcp.env`, PAT scopes, base64 format |
 | Wiki tools missing | Confirm `-d core wiki work work-items` in azure-devops args |
